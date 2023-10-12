@@ -8,6 +8,14 @@
 * RHEL 8
 * CP ansible 7.5.1
 
+## Vagrant
+
+Use this one:
+
+```
+  config.vm.box = "almalinux/8"
+```
+
 ## Instructions
 
 ```shell
