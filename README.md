@@ -11,5 +11,13 @@
 ## Instructions
 
 ```shell
+# now your devopsing!
+curl https://raw.githubusercontent.com/GeoffWilliams/ansible_now/master/ansiblenow.sh | bash
+```
 
+## cleanup system
+
+```shell
+# careful...
+curl https://raw.githubusercontent.com/GeoffWilliams/ansible_now/master/ansiblenuke.sh | bash
 ```
