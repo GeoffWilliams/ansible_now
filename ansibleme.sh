@@ -3,7 +3,7 @@
 # Compatibility:
 #   cp-ansible 7.5.1
 
-VENV=~/ansible_now_venv
+VENV=~/ansiblenow_venv
 python -mvenv $VENV
 
 . $VENV/bin/activate

@@ -31,3 +31,7 @@ pyenv install ${PYTHON_VERSION}
 PYTHON_ACTIVATE="pyenv global ${PYTHON_VERSION}"
 echo $PYTHON_ACTIVATE >> ~/.bashrc
 
+
+# good for subsequent scripts
+$PYTHON_ACTIVATE
+
